@@ -10,7 +10,7 @@ export default function Profile() {
             src={profile.avatar}
             alt={profile.name}
           />
-          <h1 className="font-bold">Mohammad Saad Ansari</h1>
+          <h1 className="font-bold">{profile.name}</h1>
           <div className="flex flex-row gap-4">
             <p className="text-muted">{profile.age}{profile.gender}</p>
             <p className="text-muted">{profile.home}</p>
