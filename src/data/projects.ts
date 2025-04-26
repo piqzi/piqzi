@@ -8,7 +8,7 @@ export const projects = [
   },
   {
     name: "Fravil",
-    description: "A micro-workout suggestion web app built with Scipy, Next.js, and Tailwind CSS.",
+    description: "A micro-workout suggestion web app build with Scikit-learn, Next.js, and TailwindCSS.",
     code: "https://github.com/piqzi/fravil",
     tech: ["Python", "Next.js", "TypeScript"],
   },
