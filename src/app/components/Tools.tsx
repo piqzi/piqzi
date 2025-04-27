@@ -11,7 +11,7 @@ import {
   SiTypescript,
   SiFlask,
   SiNumpy,
-  SiScipy,
+  SiScikitlearn,
   SiPytorch,
 } from "react-icons/si";
 import { RiTailwindCssFill, RiNextjsFill } from "react-icons/ri";
@@ -51,7 +51,7 @@ export default function Tools() {
             <FaGitAlt className="hover:text-orange-500" title="Git" />
             <FaGithub className="hover:text-orange-500" title="GitHub" />
             <SiNumpy className="hover:text-orange-500" title="Numpy" />
-            <SiScipy className="hover:text-orange-500" title="Scipy" />
+            <SiScikitlearn className="hover:text-orange-500" title="Scikit-learn" />
             <SiPytorch className="hover:text-orange-500" title="Pytorch" />
           </div>
         </div>
